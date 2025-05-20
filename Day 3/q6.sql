@@ -1,0 +1,7 @@
+USE DAY3;
+
+ALTER TABLE employee
+ADD email VARCHAR(50);
+
+ALTER TABLE employee
+ MODIFY COLUMN email VARCHAR(100);

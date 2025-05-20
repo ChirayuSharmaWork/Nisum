@@ -1,0 +1,11 @@
+CREATE DATABASE DAY3;
+
+USE DAY3;
+
+CREATE TABLE STUDENT(
+	student_id INT PRIMARY KEY,
+    name VARCHAR(50),
+    age INT,
+    email VARCHAR(50),
+    course VARCHAR(50)
+);

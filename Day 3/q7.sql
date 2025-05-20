@@ -1,0 +1,4 @@
+USE DAY3;
+
+ALTER TABLE STUDENT
+RENAME TO studentDetails;
