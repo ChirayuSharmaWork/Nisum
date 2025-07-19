@@ -1,0 +1,17 @@
+.notifications {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .notification {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .read {
+    background-color: #e0ffe0;
+  }
+  .unread {
+    background-color: #ffe0e0;
+  }
+  

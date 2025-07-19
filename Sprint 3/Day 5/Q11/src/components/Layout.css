@@ -1,0 +1,17 @@
+.layout {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    height: 100vh;
+  }
+  
+  header, footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  main {
+    padding: 2rem;
+  }
+  

@@ -1,0 +1,28 @@
+.counter-container {
+    text-align: center;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .increment {
+    background-color: green;
+    color: white;
+  }
+  
+  .decrement {
+    background-color: red;
+    color: white;
+  }
+  
+  .reset {
+    background-color: gray;
+    color: white;
+  }
+  
