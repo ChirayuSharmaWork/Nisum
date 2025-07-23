@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "iPhone 14", "category": "Mobile", "price": 999 },
+    { "id": 2, "name": "MacBook Air", "category": "Laptop", "price": 1299 },
+    { "id": 3, "name": "Samsung Galaxy", "category": "Mobile", "price": 799 },
+    { "id": 4, "name": "Dell XPS", "category": "Laptop", "price": 1099 }
+  ]
+  
